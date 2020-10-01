@@ -1,0 +1,35 @@
+.sec1 {
+    height: 100vh;
+    background-color: grey;
+
+}
+
+.sec2 {
+    height: 100vh;
+    background-color: white;
+}
+
+body {
+    margin: 0px;
+}
+
+.ClassOne {
+    height: 50vh;
+    width: 50vh;
+    background-color: black;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media only screen and (min-width:460px) {}
